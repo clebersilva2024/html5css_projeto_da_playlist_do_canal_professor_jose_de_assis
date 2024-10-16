@@ -6,3 +6,14 @@ Aprenda HTML5, CSS3 E SEO de forma simples, prática e objetiva desenvolvendo pa
 ### Wireframe
 [draw](https://app.diagrams.net/)
 ### Personal designer
+[matheus da costa](http://matheusdacosta.art.br/)
+### Tipografia
+[google fonts](https://fonts.google.com/)
+### Imagens
+[pixabay](https://pixabay.com/pt/)
+
+[icon-icons](https://icon-icons.com/pt/)
+
+[iconfinder](https://www.iconfinder.com/)
+
+[optmizilla](https://imagecompressor.com/pt/)
